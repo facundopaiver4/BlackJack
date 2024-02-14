@@ -1,0 +1,3 @@
+﻿  BlackJack.cpp
+F:\m5\BlackJack-Facundo_Pairazaman\BlackJack\BlackJack.cpp(358,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  BlackJack.vcxproj -> F:\m5\BlackJack-Facundo_Pairazaman\x64\Debug\BlackJack.exe
